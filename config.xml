@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets">
+	<name>LinkViewer</name>
+	<description>Show full URLs for links.</description>
+	<author href="http://my.opera.com/Cygnus/about/">Cygnus</author>
+</widget>
